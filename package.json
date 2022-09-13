@@ -1,0 +1,19 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "*** This is a project I'm doing to explore frontendmentor.io. This challenge is called QR code component and the details about it are listed below ***",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellChrist/QRCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxwellChrist/QRCode/issues"
+  },
+  "homepage": "https://github.com/MaxwellChrist/QRCode#readme"
+}
