@@ -1,3 +1,5 @@
+*** This is a project I'm doing to explore frontendmentor.io. This challenge is called QR code component and the details about it are listed below ***
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
