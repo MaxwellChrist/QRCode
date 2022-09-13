@@ -1,4 +1,4 @@
-*** This is a project I'm doing to explore frontendmentor.io. This challenge is called QR code component and the details about it are listed below ***
+*** This is a project I'm doing to explore frontendmentor.io. This challenge is called QR code component and the details about it are listed below. For this challenge, I wanted to use flexbox for the CSS along with no frameworks, libraries, or preprocessors (seeing how this challenge wasn't difficult). I felt somewhat uncomfortable with using flexbox as a column design at times and this challenge was to get more comfortable styling using flexbox and with the flex direction being column. See the information below for more details about what frontend mentor provides in this particular challenge ***
 
 # Frontend Mentor - QR code component
 
